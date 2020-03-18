@@ -3,7 +3,7 @@ Web untuk memantau penyebaran COVID-19
 
 Build with ❤️ by @firmnardians
 
-Tools: ReactJs, Redux, SASS, PWA, Axios, React-router-dom, ChartJs, Restful API.
+Tools : ReactJs, Redux, SASS, PWA, Axios, React-router-dom, ChartJs, Restful API.
 
 
 Demo : [https://covid-realtime.netlify.com/](https://covid-realtime.netlify.com/)
