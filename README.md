@@ -6,7 +6,7 @@ Build with ❤️ by @firmnardians
 Tools : ReactJs, Redux, SASS, PWA, Axios, React-router-dom, ChartJs, Restful API.
 
 
-Demo : [https://covid-realtime.netlify.com/](https://covid-realtime.netlify.com/)
+Demo : [https://s.id/covid-id](https://s.id/covid-id)
 
 ## Installation
 
